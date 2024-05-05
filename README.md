@@ -8,7 +8,7 @@ Requests library (pip install requests)
 **Usage**
 Clone or download this repository.
 
-Run the script (python gemini_alert.py).
+Run the script (python3 gemini.py).
 
 **Configuration**
 
